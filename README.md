@@ -16,6 +16,8 @@ Common tools in Python
 
 ### Distribution
 
+Change version of the distribution in `pymlkits/__init__.py` before uploading 
+
 ```
 pip install twine
 python setup.py sdist bdist_wheel
