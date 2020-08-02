@@ -7,4 +7,4 @@ from .multiprocessing import *
 from .visualization import *
 from .jupyters import *
 
-__version__ = '1.0.3'
+__version__ = '1.0.4'
